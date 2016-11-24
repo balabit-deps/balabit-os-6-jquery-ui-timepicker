@@ -1,0 +1,12 @@
+jquery-ui-timepicker (1.4-3) zorpos5.0; urgency=low
+
+  * removed balabit-build
+  * changed jquery-ui-timepicker path on box
+
+ -- bbalazs <bbalazs@balabit.hu>  Tue, 01 Mar 2016 15:43:47 +0100
+
+jquery-ui-timepicker (1.4-2) zorpos5.0; urgency=low
+
+  * Initial release.
+
+ -- bbalazs <bbalazs@balabit.hu>  Wed, 28 May 2014 14:02:34 +0200

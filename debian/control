@@ -1,0 +1,11 @@
+Source: jquery-ui-timepicker
+Maintainer: bbalazs <bbalazs@balabit.hu>
+Priority: extra
+Section: web
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.4
+Homepage: http://trentrichardson.com/examples/timepicker/
+
+Package: jquery-ui-timepicker
+Architecture: all
+Description: The timepicker addon adds a timepicker to jQuery UI Datepicker
