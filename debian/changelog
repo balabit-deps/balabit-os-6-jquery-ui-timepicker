@@ -1,3 +1,9 @@
+jquery-ui-timepicker (1.5.6-1) balabit-os-6.0; urgency=low
+
+  * updated jquery-ui-timepicker to v1.5.6-1
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Fri, 19 Jan 2018 15:12:42 +0100
+
 jquery-ui-timepicker (1.4-3) zorpos5.0; urgency=low
 
   * removed balabit-build
